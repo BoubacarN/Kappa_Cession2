@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 import com.google.gson.Gson;
 
-import model.query.DynamiqueResearchQuery;
+import model.query.DynamiqueResearchQuery;;
 import model.query.MustSimulatedLoanQuery;
 import model.query.RepaymentsQuery;
 import model.query.evolutionOfTheSimulationsQuery;
